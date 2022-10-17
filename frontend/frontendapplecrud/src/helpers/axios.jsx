@@ -26,3 +26,4 @@ export const axiosSinToken = (endpoint, data = null, method = 'GET') => {
         });
     }
 }
+
